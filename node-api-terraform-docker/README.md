@@ -1,6 +1,3 @@
----
-
-```markdown
 # Full-Stack Application Deployment with Terraform, Docker, and PostgreSQL
 
 ## Overview
